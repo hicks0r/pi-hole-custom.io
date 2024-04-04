@@ -20,3 +20,6 @@
 ||mundodeportivo.com^
 ||ontinyent.es^
 ||suma.es^
+||outlook.com^
+||outlook.es^
+||mail.google.com^
