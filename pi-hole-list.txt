@@ -2,3 +2,6 @@
 ||sport.es^
 ||diarioinformacion.com^
 ||agenciatributaria^
+||wallapop.com^
+||vinted.es^
+||vinted.com^
