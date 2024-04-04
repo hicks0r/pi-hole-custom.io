@@ -18,3 +18,5 @@
 ||as.com^
 ||marca.com^
 ||mundodeportivo.com^
+||ontinyent.es^
+||suma.es^
