@@ -23,3 +23,13 @@
 ||outlook.com^
 ||outlook.es^
 ||mail.google.com^
+||pepco.es^
+||jysk.es^
+||es.shein.com^
+||amazon.es^
+||amazon.com^
+||gateway.instagram.com^
+||mqtt-mini.facebook.com^
+||mtalk.google.com^
+||mail.google.com^
+
